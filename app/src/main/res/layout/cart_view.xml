@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_marginTop="10dp">
+
+    <ImageView
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:id="@+id/cartImage"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginVertical="10dp"
+        />
+
+    <TextView
+        android:layout_width="169dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:id="@+id/cartProduct"
+        android:gravity="right"
+        android:textColor="@color/black"
+        tools:text="Product:"
+        android:textSize="15sp"
+        android:layout_toEndOf="@id/cartImage"
+        />
+
+
+
+    <TextView
+        android:layout_width="175dp"
+        android:gravity="right"
+        android:layout_height="25dp"
+        android:id="@+id/Price"
+        android:textColor="@color/black"
+        tools:text="Price:"
+        android:layout_marginRight="10dp"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:layout_toEndOf="@id/cartImage"
+        android:layout_below="@+id/cartProduct"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#5E5C5C"
+        android:layout_below="@id/cartImage"
+        android:layout_marginVertical="10dp"
+        />
+
+</RelativeLayout>

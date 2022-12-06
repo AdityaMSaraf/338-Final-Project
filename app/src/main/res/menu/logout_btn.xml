@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/articles"
+        android:icon="@drawable/ic_article"
+        app:showAsAction="always"
+        android:title="Text Reviews"
+        />
+
+    <item
+        android:id="@+id/video"
+        android:icon="@drawable/ic_video"
+        app:showAsAction="always"
+        android:title="Video Reviews"
+        />
+
+
+    <item
+        android:id="@+id/person"
+        android:icon="@drawable/ic_person"
+        app:showAsAction="always"
+        android:title="Account"
+        />
+
+    <item
+        android:id="@+id/cart"
+        android:icon="@drawable/ic_cart"
+        app:showAsAction="always"
+        android:title="Cart"
+        />
+
+
+    <item
+        android:id="@+id/logoutBtn"
+        android:icon="@drawable/ic_logout"
+        app:showAsAction="always"
+        android:title="Log Out"
+        />
+
+
+
+</menu>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="log_in">Log In</string>
+    <string name="create_account">Create Account</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="create_username">Create Username</string>
+    <string name="create_password">Create Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account_title">Create Account</string>
+    <string name="_1">1</string>
+    <string name="update">Update</string>
+    <string name="exit">Exit</string>
+    <string name="orders_appear_here">Orders appear here</string>
+    <string name="administrator_n_view">ADMINISTRATOR \n VIEW</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="i9">Intel\'s Core i9–13900K comes out on top in nearly every creator task the verge tested and even in most of the gaming benchmarks. It delivers around a 6 percent performance boost in most games over the 12900K and comfortably improves games like Shadow of the Tomb Raider from 230fps on the 7950X at 1080p to 244fps on the 13900K.</string>
+    <string name="r9">AMD\’s Ryzen 9–7900X wipes the floor with Intel’s Core i9 12900K in most of the creator tasks the verge threw at it. The only exception was PugetBench for Premiere Pro, where Intel holds a clear advantage. The verge didn’t see that video processing advantage in tests of our own standard video export test that we use at The Verge, though. We export a five-minute 4K video using Adobe Premiere Pro. This completed in three minutes and 14 seconds on the 7900X, exactly the same as the 12900K.</string>
+    <string name="rtx">Nvidia’s first Ada Lovelace card shows that there are some big performance improvements over the Ampere 30-series generation. The $1,599 price tag puts the RTX 4090 way out of the price bracket for most PC gamers, but it sets the stage for what could be an exciting next generation of cards. DLSS 3 genuinely transforms frame rates here, all while maintaining the options of quality, balance, or performance for imagery. Only 35 games or apps have been confirmed for DLSS 3 so far, though, so it’s going to be some time before we truly see the impact of this new technology.</string>
+    <string name="radeon">According to AMD, RDNA 3 is the first time a chiplet architecture (where a chip’s multiple parts are broken up and talk to each other via an ultrafast interface) has been used in a gaming GPU, and it says it decided to go with the design so it can use “the right process technology for the right job.” Basically, it means it can use cutting-edge 5nm tech for its graphics processing while relying on more “mature” 6nm chips for memory caching instead of having to use the fancy stuff for everything.</string>
+    <string name="arc">tel’s first two budget GPUs offer impressive performance for the 1080p crowd and even a boost for those willing to pick the more expensive A770 card and move to 1440p. Although I haven’t been able to directly compare these cards to an RTX 3060, I’m confident the A750 and A770 will trade blows here at an important budget level of the PC gaming market. They certainly don’t come close to a $399 RTX 3060 Ti, though.</string>
+    <string name="rx_7900xtx">RX 7900XTX</string>
+    <string name="rtx_4090">RTX 4090</string>
+    <string name="r9_7950x">R9 7950X</string>
+    <string name="i9_13900k">I9 13900K</string>
+    <string name="a770">a770</string>
+</resources>

@@ -1,0 +1,6 @@
+package com.example.finalproject;
+
+public interface RecyclerViewInterface {
+    void onItemClick(int position);
+    void onItemLongClick(int position);
+}
